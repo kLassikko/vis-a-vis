@@ -38,7 +38,7 @@
     "grunt-nodemon": "~0.4.0",
     "grunt-wait": "^0.1.0",
     "mocha": "^2.3.4",
-    "mongo-express": "^0.27.3",
+    "mongo-express": "^0.54.0",
     "should": "^7.0.1",
     "tv4": "^1.1.12"
   }
